@@ -76,6 +76,6 @@
 ---
 
 ## 🤝 Conecta conmigo
-[LinkedIn](https://www.linkedin.com/in/jaime-35)  
+[LinkedIn](https://www.linkedin.com/in/jaime-shuguli-0b846537a/?trk=opento_sprofile_goalscard)  
 ✉️ j.misshael@hotmail.com  
 📍 Madrid, España
