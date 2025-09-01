@@ -1,5 +1,10 @@
-# 👋 ¡Hola! Soy Jaime Shuguli  
-**Full-Stack Developer** | JavaScript • React • Python • Flask • MySQL • APIs REST • JWT  
+<h1 align="center">👋 ¡Hola! Soy Jaime Shuguli</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
+</p>
+
+<h3 align="center">Full-Stack Developer | JavaScript • React • Python • Flask • MySQL • APIs REST • JWT</h3>
 
 💡 Apasionado por crear aplicaciones web centradas en el usuario, con código limpio y buenas prácticas.  
 🌱 Actualmente sigo mejorando mis proyectos personales y aprendiendo nuevas tecnologías.  
